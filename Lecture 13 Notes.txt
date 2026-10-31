@@ -1,0 +1,29 @@
+What is Machine Learning?
+
+Types of Machine Learning.
+
+Examples on each types.
+
+What is Scikit-Learn? (use to develop Machine Learning models)
+
+Main steps to create Machine Learning model.
+
+Create a new folder named as "P5_Iris_Classification".
+
+Machine learning is used where predefined function is not available.
+
+Types: Supervised and Unsupervised M/L
+
+output is termed as target or label in structured dataset.
+
+where target or label is available, it is termed as supervised m/l whereas if traget or label is
+not available, it is termed as unsupervised learning.
+
+Supervised m/l has 2 types: 
+1) Classification (eg. Iris dataset), Choose the right estimator
+2) Regression (eg. House price prediction)
+
+Shoe size requires height, gender and age for shoe size prediction
+
+
+
